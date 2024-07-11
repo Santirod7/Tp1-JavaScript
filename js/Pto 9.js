@@ -1,5 +1,5 @@
 const cualquierCadena = "Brave new world";
-
+// No se como se hace
 document.write(
   "El carácter en el índice 0 es '" + cualquierCadena.charAt() + "'",
 );

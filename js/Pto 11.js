@@ -7,7 +7,7 @@ if (n1%2 === 0) {
     divisible2 = 2
 }  else {
     divisible2 = " "
-}
+} //No se como se hace
 if (n1%3 === 0) {
     divisible3 = 3
     } else {
